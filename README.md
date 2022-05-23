@@ -5,4 +5,10 @@
 ## Machine learning for regression problem
 
 # Project 3:
-## Customer segmentation
+## Customer segmentation for E-Commence
+
+# Project 4:
+## A/B testing
+
+# Project 5:
+## Recommendation system
